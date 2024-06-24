@@ -12,7 +12,7 @@ define('DRIVER', 'mysql');
 //definir las constantes de nuestro proyecto
 
 define("URL_APP" , dirname(dirname(__FILE__)));
-define("URL_PROJECT" , "http://localhost/REDSOCIAL-MASTER");
+define("URL_PROJECT" , "https://socialpett.netlify.app");
 define("NAME_ROJECT_" , "SnapPet");
 
 
